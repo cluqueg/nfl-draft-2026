@@ -78,6 +78,11 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# NFL Draft project — data files
+# Raw and processed CSV data can be large; track only .gitkeep placeholders
+data/raw/*.csv
+data/processed/*.csv
+
 # IPython
 profile_default/
 ipython_config.py
