@@ -1,0 +1,34 @@
+RANK,NAME,SCHOOL,GRADE,YEAR,HEIGHT,WEIGHT,40-YD (10-YD),HAND SIZE,ARM LENGTH,WING SPAN,AGE
+1,Kenyon Sadiq,Oregon,1st-2nd,3JR,6031,241,4.39 (1.54),10,31.5,78.25,21.14
+2,Eli Stowers,Vanderbilt,2nd-3rd,5SR,6036,239,4.51 (1.59),9.75,32.875,79.75,23.02
+3,Max Klare,Ohio State,2nd-3rd,4JR,6045,246,DNP (DNP),9.125,32.625,77.875,22.79
+4,Oscar Delp,Georgia,3rd,4SF,6047,245,4.49 (1.61),9.5,32.25,77.375,22.72
+5,Justin Joly,NC State,3rd-4th,4SR,6034,241,DNP (DNP),10.625,32.75,79.375,21.79
+6,Sam Roush,Stanford,3rd-4th,4SF,6060,267,4.70 (1.61),10,30.75,76.5,22.63
+7,Will Kacmarek,Ohio State,4th,5SR,6054,261,4.74 (1.69),9.75,32.625,8.125,23.19
+8,Nate Boerkircher,Texas A&M,4th,6SR,6054,245,4.78 (1.58),10.5,32.625,79.125,24.63
+9,Eli Raridon,Notre Dame,4th,4SF,6061,245,4.62 (1.60),10.75,33,80,22.19
+10,Marlin Klein,Michigan,4th,4JR,6060,248,4.61 (1.64),9.25,32.375,80.125,23.60
+11,Jack Endries,Texas,4th-5th,4JR,6045,245,4.62 (1.59),9.625,31.125,76.875,22.07
+12,Joe Royer,Cincinnati,4th-5th,6SR,6051,247,DNP (DNP),10.75,31.875,78.75,24.16
+13,Dallen Bentley,Utah,4th-5th,4SR,6041,253,4.59 (1.59),9.875,33.125,79.75,25.31
+14,Riley Nowakowski,Indiana,5th,6SF,6022,250,4.66 (1.70),8.75,31.5,77.75,23.81
+15,Josh Cuevas,Alabama,5th,5SF,6033,245,4.65 (1.64),9.625,31.125,78,22.60
+16,Michael Trigg,Baylor,5th-6th,5SR,6036,240,DNP (DNP),10.5,34.5,84.375,23.82
+17,Dae'Quan Wright,Ole Miss,5th-6th,4SR,6036,246,DNP (DNP),9.375,32.25,79,22.59
+18,Carsen Ryan,BYU,5th-6th,4SF,6033,255,4.71 (1.60),10,31.375,77.375,22.67
+19,Matthew Hibner,SMU,6th,6SR,6042,251,4.57 (1.61),9.375,32.75,78.5,24.12
+20,Tanner Koziol,Houston,6th,5SF,6064,247,4.70 (1.61),9.75,33.75,80.75,23.23
+21,Dj Rogers,TCU,6th-7th,5SF,6037,245,4.65 (1.70),9.5,33.75,82.25,24.45
+22,Khalil Dinkins,Penn State,6th-7th,5SF,6042,251,4.72 (1.67),9.5,33.25,79.875,23.90
+23,Jaren Kanak,Oklahoma,6th-7th,4SF,6020,234,4.52 (1.61),9.375,30.75,74.375,22.20
+24,Lake Mcree,USC,7th,5SF,6041,248,4.79 (1.70),9.375,32.25,78.5,23.63
+25,Bauer Sharp,LSU,7th,5SF,6045,249,4.63 (1.67),9.875,31.75,77.125,22.97
+26,John Michael Gyllenborg,Wyoming,7th-FA,5SR,6056,249,4.60 (1.60),10,32,76.25,23.71
+27,Seydou Traore,Mississippi State,7th-FA,5SR,6036,244,4.61 (1.65),9.625,33.125,80.375,23.70
+28,Lance Mason,Wisconsin,7th-FA,4SF,6030,243,4.71 (1.67),10,31.375,76.25,22.59
+29,Rj Maryland,SMU,7th-FA,4SF,6041,236,4.51 (1.64),9.125,32.25,78.75,21.79
+30,Miles Kitselman,Tennessee,7th-FA,5SR,6051,251,4.90 (1.71),9.875,32,78.75,23.58
+31,Dan Villari,Syracuse,FA,6SF,6037,243,4.77 (1.66),9.75,32.25,78.5,23.82
+32,Evan Svoboda,Wyoming,FA,5SF,6050,248,4.59 (1.60),9.375,32.875,78.25,23.06
+33,Hayden Large,Iowa,FA,6SF,6036,255,4.72 (1.57),9,31.125,75.375,24.07

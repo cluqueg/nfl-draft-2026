@@ -1,0 +1,42 @@
+RANK,NAME,SCHOOL,GRADE,YEAR,HEIGHT,WEIGHT,40-YD (10-YD),HAND SIZE,ARM LENGTH,WING SPAN,AGE
+1,Mansoor Delane,LSU,1st,4SR,5116,182,4.38 (1.50),9,30 3/4,74.75,22.35
+2,Jermod Mccoy,Tennessee,1st,3JR,6006,192,4.40 (1.52),9,31 5/8,77,20.68
+3,Chris Johnson,San Diego State,1st-2nd,4SR,6003,193,4.40 (1.54),9 7/8,31 1/4,76 3/8,21.45
+4,Avieon Terrell,Clemson,1st-2nd,3JR,5110,184,4.64 (1.59),8 5/8,31 1/2,75 1/2,21.28
+5,Colton Hood,Tennessee,1st-2nd,3SC,5115,193,4.44 (1.54),9,31 3/4,74 7/8,21.16
+6,D'Angelo Ponds,Indiana,2nd,3JR,5085,180,4.36 (1.52),9 5/8,29 3/8,72 1/4,21.27
+7,Brandon Cisse,South Carolina,2nd,3JR,5116,189,4.41 (1.53),8 1/2,31 3/8,75 7/8,20.81
+8,Treydan Stukes,Arizona,2nd-3rd,6SR,6005,190,4.33 (1.50),8 5/8,31 3/4,76 5/8,24.6
+9,Keith Abney II,Arizona State,2nd-3rd,3JR,5097,188,4.45 (1.57),9 3/4,30 1/4,73 5/8,21.28
+10,Davison Igbinosun,Ohio State,2nd-3rd,4SR,602,189,4.45 (1.58),9 1/8,33,78 5/8,22.03
+11,Malik Muhammad,Texas,3rd,3JR,6000,182,4.42 (1.51),9 7/8,32 1/2,77 1/4,21.6
+12,Chandler Rivers,Duke,3rd-4th,4SR,5094,185,4.40 (1.52),9 1/2,29 3/8,73,22.52
+13,Daylen Everette,Georgia,3rd-4th,4SF,6012,196,4.38 (1.54),9 5/8,31 7/8,77 3/4,21.96
+14,Tacario Davis,Washington,4th,4SR,6037,194,4.41 (1.59),9 1/4,33 7/8,80 7/8,21.68
+15,Julian Neal,Arkansas,4th,5SR,6015,203,4.49 (1.59),9 1/2,33 1/4,79 1/4,23.19
+16,Devin Moore,Florida,4th,4SF,6032,198,4.50 (1.56),8 5/8,31 7/8,76 7/8,22.54
+17,Jadon Canady,Oregon,4th-5th,5SR,5104,182,4.47 (1.67),9 1/2,30 3/8,73 3/4,22.98
+18,Ephesians Prysock,Washington,4th-5th,4SR,6033,196,4.45 (1.56),9 7/8,33 1/2,80 1/2,23.1
+19,Latrell Mccutchin SR.,Houston,4th-5th,5SR,6017,191,4.43 (1.58),8 5/8,31 5/8,77 3/4,23.44
+20,Charles Demmings,Stephen F. Austin,5th,5SR,6012,193,4.41 (1.55),10 1/8,32 1/8,77 3/4,23.05
+21,Will Lee III,Texas A&M,5th,4SR,6016,199,4.40 (1.58),9 3/4,32,77 1/2,22.07
+22,Avery Smith,Toledo,5th-6th,5SR,6024,191,4.48 (1.60),9 3/8,32 1/2,79 1/8,24.03
+23,Thaddeus Dixon,North Carolina,5th-6th,4SR,5117,188,4.38 (1.55),8 3/4,29 7/8,72 3/4,21.65
+24,Tj Hall,Iowa,5th-6th,4SR,5117,192,4.38 (1.53),9 1/4,30 3/8,73 7/8,22.28
+25,Collin Wright,Tennessee,6th,5SR,5116,193,4.43 (1.57),9,30 3/4,75 1/2,22.88
+26,Nikai Martinez,Syracuse,6th,5SR,5114,195,4.37 (1.53),9 1/2,30 7/8,74 3/8,23.37
+27,Caleb Burton,Ohio State,6th-7th,4SR,5107,180,4.43 (1.58),8 3/4,31 1/8,75 1/4,22.04
+28,Tayvion Beasley,Coastal Carolina,6th-7th,5SR,5092,173,4.40 (1.55),8 5/8,29 3/8,72 1/8,23.94
+29,Luke Sims,South Carolina,6th-7th,4SR,5106,188,4.38 (1.55),8 7/8,30,72 5/8,23.06
+30,Duke Clemens,USC,7th,5SR,6005,198,DNP (DNP),9 1/8,31 3/4,76 3/4,22.99
+31,Marcus Mbow,UCF,7th,5SR,5115,187,4.36 (1.51),9 1/4,29 5/8,73 1/4,22.47
+32,Darien Porter,Iowa State,7th,5SR,6020,192,4.36 (1.53),8 3/4,33 1/4,79 1/4,23
+33,Jack Luttrell,Colorado State,7th-FA,5SR,6002,193,4.44 (1.58),9 3/8,31 5/8,76 1/2,22.94
+34,Laquan Robinson,South Carolina,7th-FA,4SR,5111,186,4.44 (1.55),9,29 3/4,71 3/8,22.38
+35,Chance Rucker,Texas Tech,7th-FA,4SR,6001,190,4.50 (1.60),8 3/4,30 7/8,75 1/4,22
+36,Dwight Mcglothern,LSU,FA,6SR,6005,192,DNP (DNP),9 1/4,32 1/8,77 1/4,23.42
+37,Dorian Singer,TCU,FA,5SR,6012,191,4.50 (1.58),9 1/4,31 3/8,75 7/8,22.99
+38,Sebastian Castro,Iowa,FA,5SR,6003,199,4.51 (1.58),9 1/8,31 1/8,75 1/4,23.49
+39,Mykel Denson,South Florida,FA,5SR,5106,177,4.36 (1.52),8 7/8,31 1/4,75 1/2,23.23
+40,Marcellus Barnes,Utah State,FA,5SR,5115,184,4.50 (1.57),9,31 3/8,75 1/4,23.44
+41,Keenan Nelson JR.,South Carolina,FA,4SR,6010,195,4.45 (1.58),9 1/4,31 3/4,77 1/8,22.23
