@@ -3,9 +3,9 @@ Rank,Player,Position,School,PFF Grade,Analysis
 2,Arvell Reese,LB,Ohio State,75.8,"Reese is an elite athlete for the position with exceptional strength. While still developing in coverage, he has the tools to become a versatile defensive weapon."
 3,Jeremiyah Love,HB,Notre Dame,93.1,"Simply put, Jeremiyah Love is what a first-round running back looks like: frame, athleticism, coordination and playmaker mentality. He brings true impact value in the running and passing games."
 4,Sonny Styles,LB,Ohio State,88.6,"Styles is an attacking linebacker with excellent anticipation who thrives when playing downhill. His movement skills are strong, though his experience in coverage is still developing."
-5,Rueben Bain Jr.,ED,Miami (FL),92.8,"Bain's lack of length will be a talking point, but his production and play strength outweigh those concerns. He consistently wins with power and intelligence as both a run defender and pass rusher."
+5,Rueben Bain Jr.,ED,Miami,92.8,"Bain's lack of length will be a talking point, but his production and play strength outweigh those concerns. He consistently wins with power and intelligence as both a run defender and pass rusher."
 6,David Bailey,ED,Texas Tech,93.3,"Bailey lacks ideal size and length but compensates with elite explosiveness and twitch. He may not be a three-down player, but his pass-rush upside is significant."
-7,Francis Mauigoa,T,Miami (FL),82.6,"Mauigoa is a well-built, well-rounded tackle prospect with a high floor as a projected starter. He brings power in the run game and quick feet in pass protection, though his ceiling may be limited by average length and kick-slide ability."
+7,Francis Mauigoa,T,Miami,82.6,"Mauigoa is a well-built, well-rounded tackle prospect with a high floor as a projected starter. He brings power in the run game and quick feet in pass protection, though his ceiling may be limited by average length and kick-slide ability."
 8,Caleb Downs,S,Ohio State,87.5,"Downs lacks elite size or athletic traits, but his football IQ is exceptional. That gives him a high floor and ceiling, with All-Pro potential in a versatile defensive role."
 9,Mansoor Delane,CB,LSU,90.5,"Delane is a long, quick outside corner with excellent instincts and ball skills. He has the tools to start in both press and off coverage and match up against top receivers."
 10,Carnell Tate,WR,Ohio State,88.6,"Tate offers one of the highest floors among true juniors, thanks to strong hands and a consistently reliable track record as a blocker. His understanding of route running and releases is already NFL-caliber, and if he continues to add functional strength, he has the potential to become an impact receiver at the next level."
@@ -18,7 +18,7 @@ Rank,Player,Position,School,PFF Grade,Analysis
 17,Jermod McCoy,CB,Tennessee,,"McCoy's medical evaluations will be critical, but based on his measurables and 2024 tape, he profiles as a first-round talent with shutdown potential in press-man coverage."
 18,CJ Allen,LB,Georgia,75.8,"Allen is a physical, reliable middle linebacker with strong run-defense ability. His length limitations are notable, but he flashes enough in coverage to project as a starter."
 19,Jordyn Tyson,WR,Arizona State,82.9,"Tyson has WR1 ability and versatility. His explosiveness is not just NFL-caliber but has the potential to be top-tier at the next level. If he continues to refine his technique — particularly his releases and route running — and can stay healthy despite a consistent injury history, he has the upside to develop into a Pro Bowl- and even All-Pro-caliber player."
-20,Akheem Mesidor,ED,Miami (FL),92.5,"Mesidor will be one of the older prospects in the class, but his pass-rush traits and technique stand out. He projects as a top-50 pick with an impact role as a 3-4 outside linebacker."
+20,Akheem Mesidor,ED,Miami,92.5,"Mesidor will be one of the older prospects in the class, but his pass-rush traits and technique stand out. He projects as a top-50 pick with an impact role as a 3-4 outside linebacker."
 21,Emmanuel McNeil-Warren,S,Toledo,91.9,"McNeil-Warren is a big, explosive safety with a knack for creating turnovers. He projects as a potential impact starter in a box role."
 22,Keldric Faulk,ED,Auburn,75.8,"Faulk is not a pure pass rusher, but his length and strength make him an ideal fit for multiple or odd fronts. He excels at holding the line of scrimmage and generating pressure through power."
 23,Avieon Terrell,CB,Clemson,83.5,"Terrell's lack of length may limit him to zone-heavy schemes, but his elite football IQ and playmaking instincts give him starting potential across multiple systems."
@@ -53,7 +53,7 @@ Rank,Player,Position,School,PFF Grade,Analysis
 52,A.J. Haulcy,S,LSU,86.6,"Haulcy is a true deep safety with strong range, ball skills and an aggressive playmaking mentality. He projects as a starter in systems that keep him in a traditional backend role."
 53,Eli Stowers,TE,Vanderbilt,81.6,"Stowers is a natural, versatile athlete with a high usage rate over the past two seasons, projecting to a contributing NFL role. He is best utilized as a backfield or big-slot option rather than as an in-line blocker, where his impact is limited."
 54,Malachi Lawrence,ED,UCF,80.1,"Lawrence has the tools to be a rotational 3-4 outside linebacker, but inconsistencies in both strengths and weaknesses may limit him to a flash player role."
-55,Keionte Scott,CB,Miami (FL),89.6,"Scott is a tone-setter in run defense with a physical mentality. His zone coverage is adequate, but man coverage limitations may restrict his role."
+55,Keionte Scott,CB,Miami,89.6,"Scott is a tone-setter in run defense with a physical mentality. His zone coverage is adequate, but man coverage limitations may restrict his role."
 56,Jadarian Price,HB,Notre Dame,78.6,"Price has the look, strength and explosiveness of an NFL back. His vision and anticipation for space can be hot and cold behind man-blocking concepts between the tackles, but in a zone-blocking scheme, he can be an effective part of a two-man backfield."
 57,Gennings Dunker,T,Iowa,82.0,"Dunker has tackle experience but projects best to guard due to his build and skill set. He flashes devastating power, particularly in zone schemes, but must clean up inconsistencies with balance and patience to raise his floor."
 58,Chris Brazzell II,WR,Tennessee,79.4,"Brazzell is a boom-or-bust vertical receiver capable of posting 100 yards one week and 20 the next. His route tree is limited, but what he does — winning downfield — he does very well. In a vertical offense, he projects as a high-upside outside receiver who will likely begin his career as a WR3. If a team bets on his skill set and he hits, he has the potential to become an impact player."
@@ -99,7 +99,7 @@ Rank,Player,Position,School,PFF Grade,Analysis
 98,Genesis Smith,S,Arizona,80.0,"Smith has intriguing size and athletic traits for a single-high role, but inconsistency with physicality and play strength limits his reliability."
 99,Jonah Coleman,HB,Washington,82.1,"Coleman may not have the flashy athleticism of a fan-favorite RB1, but his game is efficient, powerful and translatable to NFL success, specifically behind zone-blocking schemes where he can gain momentum and one-cut into rushing lanes. He also brings plus third-down reliability as a receiver and pass protector."
 100,Malachi Fields,WR,Notre Dame,75.8,"If Fields attacks the ball in the air with more consistency and urgency, he has a chance to stick on an NFL roster as a big-bodied receiver with reliable blocking and adequate long speed."
-101,Markel Bell,T,Miami (FL),72.1,"Bell's size is a rare trait, even at the NFL level. He is a better athlete than expected for his frame, but limitations in foot speed and flexibility could impact his ability to develop into a full-time starter."
+101,Markel Bell,T,Miami,72.1,"Bell's size is a rare trait, even at the NFL level. He is a better athlete than expected for his frame, but limitations in foot speed and flexibility could impact his ability to develop into a full-time starter."
 102,Jaishawn Barham,ED,Michigan,79.3,
 103,Keyshaun Elliott,LB,Arizona State,67.5,
 104,Zakee Wheatley,S,Penn State,85.9,"Wheatley is a long, springy athlete best suited for single-high roles. His slender build can be exposed in the box, but he offers strong range and coverage ability in space."
@@ -111,12 +111,12 @@ Rank,Player,Position,School,PFF Grade,Analysis
 110,Deontae Lawson,LB,Alabama,77.6,Lawson is undersized but experienced and quick. He projects as a rotational linebacker with some starting potential.
 111,Kaleb Proctor,DI,Southeastern Louisiana,86.5,
 112,De'Zhaun Stribling,WR,Mississippi,79.2,"Stribling is a strong, competitive receiver with natural hands and a physical playstyle that shows up as a blocker, after the catch and at the catch point. While he lacks the agility to consistently create separation, he has sufficient long speed to remain a vertical threat from any alignment."
-113,Carson Beck,QB,Miami (FL),73.6,"Beck enters the NFL with a ton of playing experience, clean fundamentals and a good game manager's mindset. However, his arm talent took a big hit in 2025 after his UCL surgery and could be an unfortunate roadblock to NFL success."
+113,Carson Beck,QB,Miami,73.6,"Beck enters the NFL with a ton of playing experience, clean fundamentals and a good game manager's mindset. However, his arm talent took a big hit in 2025 after his UCL surgery and could be an unfortunate roadblock to NFL success."
 114,Will Lee III,CB,Texas A&M,66.5,
 115,Billy Schrauth,G,Notre Dame,74.9,
 116,Brenen Thompson,WR,Mississippi State,79.0,
 117,Bud Clark,S,TCU,80.4,"Clark is a long, explosive playmaker with strong ball skills, but his lack of strength in run defense will need to be managed."
-118,CJ Daniels,WR,Miami (FL),73.3,"Daniels will be one of the oldest prospects in the 2026 class. He represents a traits-over-production profile and, in his current form, offers contributing NFL ability through his suddenness, elite contested-catch production and feisty blocking — albeit with limited long speed and yards-after-the-catch output."
+118,CJ Daniels,WR,Miami,73.3,"Daniels will be one of the oldest prospects in the 2026 class. He represents a traits-over-production profile and, in his current form, offers contributing NFL ability through his suddenness, elite contested-catch production and feisty blocking — albeit with limited long speed and yards-after-the-catch output."
 119,Zxavian Harris,DI,Mississippi,73.3,"Harris has intriguing size and length but must find a consistent playing weight to define his role. His high pad level and inconsistent technique limit his impact, projecting him as a rotational player in an odd front."
 120,Mikail Kamara,ED,Indiana,71.9,
 121,Kage Casey,T,Boise State,80.0,
@@ -204,7 +204,7 @@ Rank,Player,Position,School,PFF Grade,Analysis
 203,Matt Gulbin,C,Michigan State,82.6,
 204,Cole Brevard,DI,Texas,72.6,
 205,VJ Payne,S,Kansas State,73.3,"Payne has NFL-caliber size and speed, giving him versatility to play safety or cornerback at the next level."
-206,Anez Cooper,G,Miami (FL),68.7,
+206,Anez Cooper,G,Miami,68.7,
 207,Lorenzo Styles Jr.,S,Ohio State,66.0,
 208,Red Murdock,LB,Buffalo,91.2,
 209,Dae'Quan Wright,TE,Mississippi,66.4,"Wright is a big-bodied tight end with a strong multi-sport background. He shows solid all-around athleticism, but inconsistency as a blocker may limit his ability to earn significant snaps."
@@ -265,7 +265,7 @@ Rank,Player,Position,School,PFF Grade,Analysis
 264,Michael Heldman,ED,Central Michigan,93.2,
 265,Jeadyn Lukus,CB,Clemson,56.1,
 266,Xavian Sorey Jr.,LB,Arkansas,50.3,
-267,Josh Moten,CB,Southern Miss,80.1,
+267,Josh Moten,CB,Southern Mississippi,80.1,
 268,Joshua Braun,G,Kentucky,62.5,
 269,Ahmari Harvey,CB,Georgia Tech,71.9,
 270,Patrick Payton,ED,LSU,69.0,
@@ -295,7 +295,7 @@ Rank,Player,Position,School,PFF Grade,Analysis
 294,Louis Moore,S,Indiana,82.5,"Moore lacks ideal size and athleticism, but his football IQ gives him a chance to develop into a depth free safety in two-high systems."
 295,Jordan van den Berg,DI,Georgia Tech,75.0,
 296,Tomas Rimac,G,Virginia Tech,59.3,
-297,Jakobe Thomas,S,Miami (FL),87.3,"Thomas offers intriguing size and physicality as an enforcer-type safety, but inconsistency likely limits him to a rotational role."
+297,Jakobe Thomas,S,Miami,87.3,"Thomas offers intriguing size and physicality as an enforcer-type safety, but inconsistency likely limits him to a rotational role."
 298,RJ Maryland,TE,SMU,62.4,
 299,Jackie Marshall,DI,Baylor,55.7,
 300,Caden Barnett,G,Wyoming,71.3,
@@ -348,7 +348,7 @@ Rank,Player,Position,School,PFF Grade,Analysis
 347,Anthony Smith,WR,East Carolina,72.4,
 348,Dillon Wade,G,Auburn,59.6,
 349,Febechi Nwaiwu,G,Oklahoma,69.7,
-350,Wesley Bissainthe,LB,Miami (FL),64.7,
+350,Wesley Bissainthe,LB,Miami,64.7,
 351,DaShawn Jones,CB,Alabama,64.1,
 352,Ahmaad Moses,S,SMU,70.4,Moses is a feisty competitor but likely lacks the size to stick at safety. He may find a role as a depth slot corner.
 353,Al-Jay Henderson,HB,Buffalo,66.8,
@@ -433,7 +433,7 @@ Rank,Player,Position,School,PFF Grade,Analysis
 432,Justin Jefferson,LB,Alabama,67.7,
 433,Ricardo Hallman,CB,Wisconsin,71.0,
 434,Kam Olds,ED,Kentucky,71.1,
-435,James Brockermeyer,C,Miami (FL),72.5,
+435,James Brockermeyer,C,Miami,72.5,
 436,Triston Newson,LB,Missouri,63.2,
 437,Zach Calzada,QB,Kentucky,46.5,
 438,Ja'Mori Maclin,WR,Kentucky,61.1,
