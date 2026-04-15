@@ -1,0 +1,47 @@
+{
+  "data_glob": "*.csv",
+  "filename_regex": "^[a-z0-9-]+\\.csv$",
+  "required_file_patterns": [
+    "brugler-*.csv",
+    "nfl-grades.csv",
+    "nflmockdraftdatabase-*.csv",
+    "pff-big-board-*.csv",
+    "ras-*.csv",
+    "vikings-predraft-visits.csv"
+  ],
+  "schema_rules": [
+    {
+      "pattern": "brugler-*.csv",
+      "required_columns": ["RANK", "NAME", "SCHOOL", "GRADE", "YEAR", "HEIGHT", "WEIGHT"]
+    },
+    {
+      "pattern": "nfl-grades.csv",
+      "required_columns": ["NAME", "POSITION", "SCHOOL", "GRADE"]
+    },
+    {
+      "pattern": "nflmockdraftdatabase-*.csv",
+      "required_columns": ["RANK", "NAME", "POSITION", "SCHOOL"]
+    },
+    {
+      "pattern": "pff-big-board-*.csv",
+      "required_columns": ["Rank", "Player", "Position", "School"]
+    },
+    {
+      "pattern": "ras-*.csv",
+      "required_columns": ["Name", "Pos", "College", "RAS"]
+    },
+    {
+      "pattern": "vikings-predraft-visits.csv",
+      "required_columns": ["NAME", "POSITION", "SCHOOL"]
+    }
+  ],
+  "position_rule": {
+    "columns": ["POSITION", "Position", "Pos"],
+    "allowed_values": ["CB", "DI", "DS", "ED", "LB", "OC", "OG", "OT", "QB", "RB", "FB", "TE", "WR", "K", "P", "LS"]
+  },
+  "checks": {
+    "minimum_data_rows": 1,
+    "forbid_blank_rows": true,
+    "enforce_row_width": true
+  }
+}
