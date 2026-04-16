@@ -1,7 +1,7 @@
 RANK,NAME,SCHOOL,GRADE,YEAR,HEIGHT,WEIGHT,40-YD (10-YD),HAND SIZE,ARM LENGTH,WING SPAN,AGE
 1,Caleb Downs,Ohio State,1st,3JR,5116,206,DNP (DNP),9 1/2,30 1/4,73 1/4,21.37
 2,Dillon Thieneman,Oregon,1st-2nd,3JR,6001,201,4.35 (1.52),9 1/8,31 7/8,78 1/8,21.71
-3,Emmanuel Mcneil-Warren,Toledo,1st-2nd,4SR,6034,201,4.52 (1.58),9 1/4,32 1/2,78 1/4,22.29
+3,Emmanuel McNeil-Warren,Toledo,1st-2nd,4SR,6034,201,4.52 (1.58),9 1/4,32 1/2,78 1/4,22.29
 4,Keionte Scott,Miami,2nd-3rd,6SR,5112,191,4.33 (1.53),9 7/8,31 3/4,76 5/8,24.7
 5,A.J. Haulcy,LSL,2nd-3rd,4SR,5115,215,4.52 (1.62),9 1/4,30 7/8,75 3/8,22.28
 6,Zakee Wheatley,Penn State,3rc,5SR,6031,202,4.62 (1.64),9 1/2,31,76 3/8,24.15
@@ -27,3 +27,5 @@ RANK,NAME,SCHOOL,GRADE,YEAR,HEIGHT,WEIGHT,40-YD (10-YD),HAND SIZE,ARM LENGTH,WIN
 26,Miles Scott,Illinois,FA,5SR,6002,203,4.62 (1.63),10 3/8,31,76 1/2,24.07
 27,Jalen Stroman,Notre Dame,FA,5SR,6003,203,4.70 (1.67),8 7/8,31 5/8,76 1/4,22.92
 28,Larry Worth III,Arkansas,FA,5SR,6036,220,4.62 (1.57),8 7/8,33 1/8,78,21.56
+29,Isaiah Nwokobia,SMU,FA,5SR,6003,206,DNP (DNP),9 5/8,31 1/8,74 3/8,23
+45,Jalen Catalon,Missouri,FA,7SR,5100,200,DNP (DNP),-,-,-,25

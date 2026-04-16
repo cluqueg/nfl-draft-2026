@@ -4,44 +4,46 @@ RANK,NAME,SCHOOL,GRADE,YEAR,HEIGHT,WEIGHT,40-YD (10-YD),HAND SIZE,ARM LENGTH,WIN
 3,Rueben Bain Jr.,Miami,1st,3JR,6022,263,DNP (DNP),9 1/8,30 7/8,77 1/2,21.62
 4,Keldric Faulk,Auburn,1st-2nd,3JR,605,274,4.67 (1.68),9 7/8,35,84,20.62
 5,Akheem Mesidor,Miami,1st-2nd,6SR,6030,259,DNP (DNP),10,32 1/2,80,25.05
-6,T.j. Parker,Clemson,1st-2nd,3JR,6035,263,4.68 (1.61),9 5/8,33 1/8,79 3/8,21.59
+6,T.J. Parker,Clemson,1st-2nd,3JR,6035,263,4.68 (1.61),9 5/8,33 1/8,79 3/8,21.59
 7,Malachi Lawrence,UCF,1st-2nd,5SR,6043,253,4.52 (1.57),9 1/4,33 5/8,81 5/8,22.76
 8,Zion Young,Missouri,1st-2nd,4SR,6056,267,4.75 (1.72),9 1/2,33 3/8,81 3/8,22.1
 9,Cashius Howell,Texas A&M,2nd,5SR,6024,253,4.59 (1.58),9 1/4,31,74 1/4,23.02
 10,R Mason Thomas,Oklahoma,2nd,4SR,6024,241,4.67 (1.63),8 7/8,31 3/4,78 1/8,21.66
 11,Gabe Jacas,Illinois,2nd-3rd,4SR,6035,261,4.69 (1.59),10,33,78 7/8,21.91
 12,Keyron Crawford,Auburn,2nd-3rd,4SR,6043,253,DNP (DNP),9,32 1/2,80,22.52
-13,Dani Dennis-sutton,Penn State,2nd-3rd,4SR,6055,256,4.63 (1.63),10 3/8,33 1/2,82 5/8,22.33
+13,Dani Dennis-Sutton,Penn State,2nd-3rd,4SR,6055,256,4.63 (1.63),10 3/8,33 1/2,82 5/8,22.33
 14,Derrick Moore,Michigan,3rd,4SR,6037,255,DNP (DNP),9 1/8,33 3/8,81 1/4,23.38
 15,Romello Height,Texas Tech,3rd,6SR,6026,239,4.64 (1.62),9 1/2,32 3/8,79 3/8,25.03
 16,Jaishawn Barham,Michigan,3rd-4th,4SR,6034,240,4.64 (1.61),10 5/8,32 7/8,80 1/8,22.22
-17,Lt Overton,Alabama,4th,4SR,6030,274,4.87 (1.70),10 5/8,33 1/4,81 3/4,21.53
+17,LT Overton,Alabama,4th,4SR,6030,274,4.87 (1.70),10 5/8,33 1/4,81 3/4,21.53
 18,Max Llewellyn,Iowa,4th,5SR,6055,258,4.81 (1.64),9,32 1/2,78 5/8,23.68
 19,Caden Curry,Ohio State,4th-5th,4SR,6026,257,DNP (DNP),9 3/8,30 5/8,76,22.92
 20,Joshua Josephs,Tennessee,4th-5th,4SR,6031,243,4.73 (1.68),10,34 3/4,84,22.37
 21,Wesley Williams,Duke,4th-5th,4JR,6036,256,4.89 (1.62),9 3/4,32,78 1/8,21.58
 22,Logan Fano,Utah,5th,4JR,6047,252,4.59 (1.56),9 1/2,31 1/2,76 7/8,23.84
-23,Joseph Mupoyi,Louisiana,5th,4JR,6031,248,4.66 (1.62),10 1/8,33 3/8,81 1/8,22.48
-24,Michael Mccallister,Washington,5th-6th,5SR,6015,247,4.73 (1.64),9 3/4,32 1/8,78 1/2,23.18
-25,Deslin Alexandre,Notre Dame,5th-6th,5SR,6044,268,4.73 (1.68),10 1/4,32 3/4,80 3/8,23.9
-26,Ryan Kelly,Alabama,6th,4SR,6052,255,4.70 (1.68),10,33 3/4,81 3/4,22.52
-27,Jaxson Mays,Nebraska,6th,5SR,6043,260,4.80 (1.67),9 3/8,33,79 7/8,23
-28,Cole Bishop,Georgia Southern,6th-7th,5SR,6030,252,4.74 (1.66),9 1/2,32 1/4,78 1/8,23.48
-29,Isaiah Iton,Maryland,6th-7th,5SR,6037,260,4.72 (1.66),10,33 1/2,80 7/8,22.89
-30,Elinneus Davis,Air Force,7th,5SR,6023,243,4.61 (1.60),9 1/4,32 1/4,77 7/8,24.22
-31,Shemar Stewart,Texas A&M,7th,4SR,6047,272,4.75 (1.67),10 3/8,34 1/2,84 1/2,22.08
-32,Chidi Maude,Southern Utah,7th-FA,6SR,6034,264,4.60 (1.62),10 1/8,33 1/4,81 1/8,24.18
-33,Alex Mccray,South Carolina,7th-FA,6SR,6034,256,4.82 (1.69),9 1/2,33 5/8,79 3/4,23.69
-34,Rakim Jarrett,Maryland,7th-FA,5SR,6012,242,4.74 (1.65),9,32,77 5/8,23.76
-35,Nate Clifton,Louisville,FA,5SR,6032,252,4.69 (1.66),10 1/8,32 1/2,79,23.39
-36,J.t. Tuimoloau,Ohio State,FA,5SR,6043,264,4.71 (1.64),9 5/8,33 1/4,79 7/8,23.3
-37,Mykel Williams,Georgia,FA,4JR,6047,265,4.75 (1.68),10 1/4,34 3/8,83 1/4,21.89
-38,Princely Umanmielen,Florida,FA,5SR,6045,261,4.86 (1.73),10 1/8,33 5/8,80 5/8,22.54
-39,James Pearce Jr.,Tennessee,FA,4SR,6045,243,4.74 (1.65),9 1/4,33 1/4,79 1/8,22.3
+23,George Gumbs Jr.,Florida,5th,5SR,6043,245,4.66 (1.67),9,33 7/8,81 3/8,23.49
+24,Anthony Lucas,USC,5th-6th,4SR,6054,256,DNP (DNP),10 1/4,34 3/8,85 1/8,21.54
+25,Trey Moore,Texas,5th-6th,5SR,6015,243,4.54 (1.60),10 1/2,31 5/8,78 1/8,22.97
+26,Mason Reiger,Wisconsin,5th-6th,6SR,6045,251,4.78 (1.61),10 3/8,32 5/8,80 3/4,23.68
+27,Tyreak Sapp,Florida,6th,5SR,6023,273,DNP (DNP),9 1/2,32,76 3/4,23.55
+28,Jack Pyburn,LSU,6th,4SR,6037,258,DNP (DNP),10,31 1/2,77 3/8,22.64
+29,Nadame Tucker,Western Michigan,6th-7th,6SR,6017,247,4.73 (1.63),9,31 7/8,78 1/4,25.84
+30,Aidan Hubbard,Northwestern,6th-7th,5SR,6044,259,4.80 (1.67),9 1/8,32 1/8,79 1/8,23.11
+31,Quintayvious Hutchins,Boston College,6th-7th,5SR,6027,233,4.74 (1.70),9 1/2,33,81 3/4,23.06
+32,Michael Heldman,Central Michigan,7th,5SR,6037,268,4.70 (1.64),9 1/2,32 1/2,78 1/8,23.30
+33,Tyre West,Tennessee,7th,4SR,6017,283,4.84 (1.68),10 1/4,33 3/8,80 1/4,23.26
+34,Mikail Kamara,Indiana,7th,6SR,6005,250,4.90 (1.70),9 5/8,31 3/8,77 1/8,24.53
+35,Zach Durfee,Washington,7th-FA,5SR,6046,247,4.58 (1.64),9 3/4,31 1/2,76 3/8,24.55
+36,Vincent Anthony Jr.,Duke,7th-FA,4SR,6055,259,4.82 (1.56),10,34 1/2,83 1/2,21.99
+37,Nyjalik Kelly,Duke,7th-FA,4SR,6053,263,4.84 (1.69),10 1/2,35 1/2,82 1/2,21.48
+38,Cian Slone,UCF,7th-FA,5SR,6031,241,4.66 (1.56),9 3/4,31 1/8,78 1/4,23.59
+39,Mitchell Melton,NC State,FA,6SR,6030,253,4.62 (1.69),9 3/8,33 1/8,78 1/2,24.10
 40,Patrick Payton,LSU,FA,5SR,6047,260,DNP (DNP),10,34,81 1/4,23.57
 41,Marvin Jones Jr.,Oklahoma,FA,4SR,6050,245,4.69 (1.65),9 1/4,33 1/8,80 7/8,21.87
 42,Khordae Sydnor,Vanderbilt,FA,5SR,6044,264,4.68 (1.58),10,34 3/4,83 7/8,22.66
 43,Ethan Burke,Texas,FA,4SR,6057,267,4.94 (1.68),10,33 1/4,82 1/2,22.84
 44,Keyshawn James-Newby,New Mexico,FA,5SR,6020,238,4.53 (1.63),9 3/8,33 1/8,79 3/4,23.71
-45,Dasan Mccullough,Nebraska,FA,4SR,6053,240,4.59 (1.63),9 3/8,33 7/8,81 1/8,23.13
+45,Dasan McCullough,Nebraska,FA,4SR,6053,240,4.59 (1.63),9 3/8,33 7/8,81 1/8,23.13
 46,Bryan Thomas Jr.,South Carolina,FA,4SR,6017,240,4.81 (1.60),9 1/4,31 3/8,78 3/8,21.82
+47,Eric O'Neill,Rutgers,FA,5SR,6021,247,4.81 (1.69),9 5/8,31,76 1/4,23
+55,TJ Guy,Michigan,FA,5SR,6033,240,4.94 (1.68),9 3/4,31 3/8,78 1/2,23

@@ -1,6 +1,6 @@
 RANK,NAME,SCHOOL,GRADE,YEAR,HEIGHT,WEIGHT,40-YD (10-YD),HAND SIZE,ARM LENGTH,WING SPAN,AGE
 1,Fernando Mendoza,Indiana,1st,4JR,6046,236,DNP (DNP),91/2,31 7/8,76 3/4,22.56
-2,Ty Simpson,Alabama,2nd,4JF,6011,211,DNP (DNP),9 3/8,311/2,761/2,23.34
+2,Ty Simpson,Alabama,2nd,4JR,6011,211,DNP (DNP),9 3/8,311/2,761/2,23.34
 3,Garrett Nussmeier,LSU,3rd,5SR,6015,203,DNP (DNP),91/8,30 3/8,751/4,24.21
 4,Drew Allar,Penn State,3rd-4th,4SR,6052,228,DNP (DNP),97/8,32 7/8,80,22.12
 5,Cole Payton,North Dakota State,4th,5SR,6025,232,4.56 (1.57),101/4,33,78 3/4,23.49
@@ -18,4 +18,8 @@ RANK,NAME,SCHOOL,GRADE,YEAR,HEIGHT,WEIGHT,40-YD (10-YD),HAND SIZE,ARM LENGTH,WIN
 17,Mark Gronowski,Iowa,7th-FA,6SR,6021,226,4.71 (1.60),101/2,32 3/8,77 3/4,24.55
 18,Jalon Daniels,Kansas,FA,6SR,6005,219,4.65 (163),95/8,30 3/8,76 3/4,23.48
 19,Behren Morton,Texas Tech,FA,5SR,6021,218,4.89 (1.69),91/2,311/4,75 7/8,24.26
-20,Maverick Mcivor,Western Kentucky,FA,7SR,6020,209,4.94 (1.75),9,311/4,751/2,25.67
+20,Maverick Mcivor,Western Kentucky,FA,7SR,6020,209,4.94 (1.75),9,311/4,75 1/2,25.67
+22,Miller Moss,Louisville,FA,5SR,6013,211,DNP (DNP),9 3/8,31,73 5/8,24
+24,Jake Retzlaff,Tulane,FA,3JR,6006,209,DNP (DNP),8 3/4,30 5/8,75 3/4,23
+25,Tommy Castellanos,Florida State,FA,4SR,5096,198,4.59 (1.60),8 7/8,30 3/8,72 3/4,23
+27,Kyron Drones,Virginia Tech,FA,5SR,6015,226,4.62 (1.60),9 3/4,32 3/4,79 3/4,24

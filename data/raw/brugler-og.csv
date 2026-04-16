@@ -18,8 +18,8 @@ RANK,NAME,SCHOOL,GRADE,YEAR,HEIGHT,WEIGHT,40-YD (10-YD),HAND SIZE,ARM LENGTH,WIN
 17,Jeremiah Wright,Auburn,5th-6th,6SR,6051,331,DNP (DNP),10,33 1/2,83 1/2,24.63
 18,Fernando Carmona,Arkansas,6th,5SR,6045,316,5.22 (1.85),9 1/2,32 3/4,80 1/2,23.79
 19,Carver Willis,Washington,6th,6SR,6050,303,5.11 (1.84),9 5/8,32 7/8,79,24.01
-20,Ar'Maj Reed-Adams,Texas A&M,6th-7th,6SR,6056,314,5.28 (1.85),10,34 1/2,85,24.47
-21,Dj Campbell,Texas,6th-7th,4SR,6030,313,5.01 (1.75),10 1/4,34 1/4,82 1/8,22.58
+20,Ar'maj Reed-Adams,Texas A&M,6th-7th,6SR,6056,314,5.28 (1.85),10,34 1/2,85,24.47
+21,DJ Campbell,Texas,6th-7th,4SR,6030,313,5.01 (1.75),10 1/4,34 1/4,82 1/8,22.58
 22,Garrett Digiorgio,UCLA,7th,5SR,6067,319,5.36 (1.86),10 1/8,33 3/8,79 5/8,23.05
 23,Josh Gesky,Illinois,7th-FA,5SR,6051,308,5.03 (1.74),9 5/8,33,79 3/4,23.31
 24,Micah Morris,Georgia,7th-FA,5SR,6052,334,5.09 (1.73),10 3/8,33 3/4,83 1/2,22.66
@@ -29,3 +29,5 @@ RANK,NAME,SCHOOL,GRADE,YEAR,HEIGHT,WEIGHT,40-YD (10-YD),HAND SIZE,ARM LENGTH,WIN
 28,Ethan Onianwa,Ohio State,FA,5SR,6063,333,5.21 (1.84),10,34 3/8,83 3/8,22.68
 29,Henry Lutovsky,Nebraska,FA,5SR,6061,319,5.16 (1.83),10 3/8,34,82 3/4,23.25
 30,Sam Hagen,South Dakota State,FA,5SR,6061,320,DNP (DNP),9 5/8,32 7/8,80,22.66
+31,Kobe Baynes,Kansas,FA,5SR,6040,321,5.35 (1.80),9 5/8,32 3/4,82 1/2,23
+32,Tomas Rimac,Virginia Tech,FA,5SR,6057,317,4.95 (1.66),10,34 3/8,81 5/8,23
